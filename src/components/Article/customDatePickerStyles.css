@@ -1,0 +1,7 @@
+.react-datepicker__input-container input::placeholder {
+    color: #9ca3af; /* Custom color for placeholder */
+  }
+  .react-datepicker__input-container input {
+    color: #ffffff; /* Custom color for date text */
+  }
+  
